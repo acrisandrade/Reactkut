@@ -1,5 +1,5 @@
 import { createGlobalStyle, ThemeProvider } from 'styled-components'
-import { AlurakutStyles } from './lib/reactkutCommons'
+import { AlurakutStyles } from '../pages/lib/reactkutCommons'
 
 
 const GlobalStyle = createGlobalStyle`

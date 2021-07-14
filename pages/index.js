@@ -1,7 +1,7 @@
-import MainGrid from './src/components/MainGrid/index'
-import Box from './src/components/MainGrid/Box/index'
+import MainGrid from '../src/components/MainGrid/index'
+import Box from '../src/components/MainGrid/Box/index'
 import { OrkutNostalgicIconSet, ReactkutMenu } from './lib/reactkutCommons';
-import { ProfileRelationsBoxWrapper } from './src/components/MainGrid/ProfileRelations/ProfileRelations';
+import { ProfileRelationsBoxWrapper } from '../src/components/MainGrid/ProfileRelations/ProfileRelations';
 
 function ProfileSidebar(propiedades) {
   return (
